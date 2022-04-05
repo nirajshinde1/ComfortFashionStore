@@ -1,5 +1,5 @@
 const data = {
-    product:[
+    products:[
     {
         _id:'1',
         name:'Nike Slimfit Shirts',
@@ -18,8 +18,8 @@ const data = {
        image:'/images/p2.jpg',
        price:899,
        brand: 'PE',
-       rating: 4.8,
-       numReviews: 15,
+       rating: 4.0,
+       numReviews: 10,
        description: 'high quality product',
    },
    {
@@ -29,8 +29,8 @@ const data = {
    image:'/images/p3.jpg',
    price:1499,
    brand: 'AlenSoly',
-   rating: 4.9,
-   numReviews: 11,
+   rating: 4.8,
+   numReviews: 17,
    description: 'high quality product',
 },
 {
@@ -40,8 +40,8 @@ const data = {
    image:'/images/p4.jpg',
    price:999,
    brand: 'DE',
-   rating: 3.5,
-   numReviews: 10,
+   rating: 4.5,
+   numReviews: 14,
    description: 'high quality product',
 },
 {
@@ -52,7 +52,7 @@ const data = {
    price:1599,
    brand: 'Denim',
    rating: 4.5,
-   numReviews: 19,
+   numReviews: 10,
    description: 'high quality product',
 },
 {
@@ -62,8 +62,8 @@ const data = {
    image:'/images/p6.jpg',
    price:2199,
    brand: 'PA',
-   rating: 4.9,
-   numReviews: 8,
+   rating: 4.5,
+   numReviews: 15,
    description: 'high quality product',
     },
  ],

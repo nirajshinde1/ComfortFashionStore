@@ -1,5 +1,5 @@
 html{
-  font-size: 62.5;
+  font-size: 62.5%;
   box-sizing: border-box;
 }
 body{
@@ -78,7 +78,7 @@ img{
   border-radius: 0.5rem;
 }
 img.medium{
-  max-width: 18rem;
+  max-width: 29rem;
   width: 100%;
 }
 
@@ -102,4 +102,7 @@ img.medium{
 .rating span{
   color: #f0c040;
   margin: 0.1rem;
+}
+.rating span:last-child{
+  color:#404044
 }
